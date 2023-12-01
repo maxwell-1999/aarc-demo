@@ -755,9 +755,9 @@
   integrity sha512-OvlIYQK9tNneDlS0VN54LLd5uiPCBOp7gS5Z0f1mjoJYBrtStzgmJBxONW3U6OZqdtNzZPmn9BS/7WI7BFFcFQ==
 
 "@types/node@*", "@types/node@^20.8.7":
-  version "20.10.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.0.tgz#16ddf9c0a72b832ec4fcce35b8249cf149214617"
-  integrity sha512-D0WfRmU9TQ8I9PFx9Yc+EBHw+vSpIub4IDvQivcp26PtPrdMGAq5SDcpXEo/epqa/DXotVpekHiLNTg3iaKXBQ==
+  version "20.10.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.10.1.tgz#d2c96f356c3125fedc983d74c424910c3767141c"
+  integrity sha512-T2qwhjWwGH81vUEx4EXmBKsTJRXFXNZTL4v0gi01+zyBmCwzE6TyHszqX01m+QHTEq+EZNo13NeJIdEqf+Myrg==
   dependencies:
     undici-types "~5.26.4"
 
@@ -805,10 +805,10 @@
     ethers "^5.3.1"
     tiny-invariant "^1.3.1"
 
-aarc-sdk@^0.0.1-beta.5:
-  version "0.0.1-beta.5"
-  resolved "https://registry.yarnpkg.com/aarc-sdk/-/aarc-sdk-0.0.1-beta.5.tgz#f7edb9a0ac926bf99cd4d02ca7570ec572cc1aaf"
-  integrity sha512-HhFcsl5seWQEa/K1Nrey7KKzD8lgBBzpQp93vMq49fLVeSTjUAAal0JDeQ39u6aTsuYQc4ATEaMdEDJtxGR+dw==
+aarc-sdk@0.0.1-beta.6:
+  version "0.0.1-beta.6"
+  resolved "https://registry.yarnpkg.com/aarc-sdk/-/aarc-sdk-0.0.1-beta.6.tgz#210fd7c66bc081ab467b32fa33e50cd85cbb4b4f"
+  integrity sha512-JRP0kQGgDk0UMaFq0JNsD0yhkm5U/je7rn+0t54w+s4B/KiTniblikf3KXktItpNpU1nL5xVzrhwW1dC23YUuQ==
   dependencies:
     "@biconomy/account" "^3.1.0"
     "@biconomy/modules" "^3.1.0"

@@ -1,7 +1,4 @@
-import {
-  gaslessTokensTransfer,
-  gaslessSingleTokenTransfer,
-} from "./gasless/script";
+import { gaslessSingleTokenTransfer } from "./gasless/script";
 
 import * as dotenv from "dotenv";
 dotenv.config();
